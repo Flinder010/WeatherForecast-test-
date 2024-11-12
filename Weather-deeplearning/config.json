@@ -1,0 +1,10 @@
+{
+  "topology": [3, 30, 20, 1],
+  "learningRate": 0.05,
+  "momentum": 1.0,
+  "bias": 1.0,
+  "epoch": 30,
+  "trainingData": "D:/C++daima/weather_prs/Weather-deeplearning/Data/sample_data.csv",
+  "labelData": "D:/C++daima/weather_prs/Weather-deeplearning/Data/label_data.csv",
+  "weightsFile": "D:/C++daima/weather_prs/Weather-deeplearning/saveWeights/saveWeights.json"
+}
